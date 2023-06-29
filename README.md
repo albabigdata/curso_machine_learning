@@ -4,4 +4,4 @@ Carpeta 1- Lunes:
 Carpeta 2 - Martes:
   Aprendimos los tipos de bucles, cómo funciona la librería panda y el API de SpaceX.
 Carpeta 3 - Miércoles:
-  Aprendimos sobre Machine Learning y cómo aplicarlo sobre el Bitcoin y cómo utilizar la librería Folium. 
+  Aprendimos sobre Machine Learning y sobre la librería Prophet relacionado con el Bitcoin y cómo utilizar la librería Folium. 
